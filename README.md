@@ -33,7 +33,7 @@ To help HR teams identify attrition patterns and take data-driven decisions to i
 - Conduct regular employee feedback surveys to improve engagement and retention.
 
 ## Dashboard Preview
-![Employee Attrition Dashboard](dashboard.png)
+![Employee Attrition Dashboard](Employee_Attrition_Dashboard.png)
 
 ## Project Files
 - Employee_Attrition_Dashboard.xlsx
