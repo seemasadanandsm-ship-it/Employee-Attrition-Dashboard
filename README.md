@@ -37,4 +37,4 @@ To help HR teams identify attrition patterns and take data-driven decisions to i
 
 ## Project Files
 - Employee_Attrition_Dashboard.xlsx
-- dashboard.png
+- Employee_Attrition_Dashboard.png
